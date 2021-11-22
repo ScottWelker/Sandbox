@@ -1,5 +1,5 @@
 # Introduction
-This **Sandbox** Wiki is a place for me to play with GitHub Wiki. I find it to be an odd beast. I've opted to limit my experimentation to markdown (`.md`) files. You may have different results using other supported file formats. 
+This **Sandbox** Wiki is a place for me to play with GitHub Wiki (or this copy of the Wiki's `.md` files). I find it to be an odd beast. I've opted to limit my experimentation to markdown (`.md`) files. You may have different results using other supported file formats. 
   - :+1: My interest is in determining what is involved in migrating select pages and their artifacts (mostly images) from an **Azure DevOps Wiki** to GitHub Wiki.
 
 Unless you do something out of the ordinary to change it, the Wiki has no hierarchy. It's just a flat pool of content (files) in an underlying git repository. That doesn't bother me. It's in keeping with [Wiki's Unified Design Principle](http://wiki.c2.com/?WikiDesignPrinciples).
