@@ -21,17 +21,12 @@
   * Fruits
   * Fish
 </details>
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+# Stuff
+## More  
+# Stuff2
+## More2 
+# Stuff3
+## More3 
 
 <details>
   <summary id="stage-three">Stage 3</summary>
@@ -41,3 +36,9 @@
   * Fish
   * [Link to Stage 1](#stageone)
 </details>
+# Stuff
+## More  
+# Stuff2
+## More2 
+# Stuff3
+## More3 
